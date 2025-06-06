@@ -41,7 +41,7 @@ A refatoração seguiu 7 passos principais para corrigir os problemas:
 1.  **Pré-requisitos:** Java JDK e Maven.
 2.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/AndreFerrarez/GerenciarFaturasTP03.git](https://github.com/AndreFerrarez/GerenciarFaturasTP03.git)
+    git clone https://github.com/AndreFerrarez/GerenciarFaturasTP03.git
     cd GerenciarFaturasTP03
     ```
 3.  **Execute via Maven:**
